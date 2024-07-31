@@ -80,7 +80,7 @@ $(document).ready(function () {
             break
         }
 
-        if (novoUsuario !== '' & novoSenha === novoConfirmSenha) {
+        if (novoUsuario !== '' && novoSenha !== '' && novoConfirmSenha !=='' && novoSenha === novoConfirmSenha) {
             let logins = Array ();
             if (localStorage.hasOwnProperty("login")) {
                 logins = JSON.parse(localStorage.getItem("login"))

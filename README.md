@@ -18,3 +18,5 @@ Na busca constante de aprendizado e desenvolvimento das habilidades, concluo est
 - ``Bootstrap e SASS``
 - ``JavaScript e jQuery``
 
+# 🖼️ Outras imagens
+
