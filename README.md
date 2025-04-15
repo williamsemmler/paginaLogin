@@ -18,5 +18,5 @@ Na busca constante de aprendizado e desenvolvimento das habilidades, concluo est
 - ``JavaScript e jQuery``
 
 # 🖼️ Outras imagens
-https://github.com/williamsemmler/paginaLogin/blob/main/assets/readme/cadastro_novo_usuario.png
-https://github.com/williamsemmler/paginaLogin/blob/main/assets/readme/erro_falta_preenchimento.png
+![Cadastro novo Usuário](https://github.com/williamsemmler/paginaLogin/blob/main/assets/readme/cadastro_novo_usuario.png)
+![Erro: Falta de preenchimento](https://github.com/williamsemmler/paginaLogin/blob/main/assets/readme/erro_falta_preenchimento.png)
