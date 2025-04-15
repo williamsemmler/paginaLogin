@@ -1,6 +1,6 @@
 <h1 align="center"> PÁGINA DE LOGIN </h1>
 
-![Tela principal](https://github.com/willsemmlerdev/paginaLogin/blob/main/arquivos%20readme/pagina_principal.png)
+![Tela principal](https://github.com/williamsemmler/paginaLogin/blob/main/assets/readme/pagina_principal.png)
 
 Na busca constante de aprendizado e desenvolvimento das habilidades, concluo este projeto de uma página de login simples, mas objetiva. Meu intuito foi de desenvolver técnicas usando HTML, CSS (SCSS), JavaScript e jQuery. Utilizei também localStorage para o dinamismo com criação de usuário, senha e recuperação destes na hora do login.
 
@@ -18,3 +18,5 @@ Na busca constante de aprendizado e desenvolvimento das habilidades, concluo est
 - ``JavaScript e jQuery``
 
 # 🖼️ Outras imagens
+https://github.com/williamsemmler/paginaLogin/blob/main/assets/readme/cadastro_novo_usuario.png
+https://github.com/williamsemmler/paginaLogin/blob/main/assets/readme/erro_falta_preenchimento.png
