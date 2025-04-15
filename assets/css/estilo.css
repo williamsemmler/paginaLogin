@@ -40,7 +40,7 @@ body {
 }
 .container main #usuario {
   background-color: rgba(255, 255, 255, 0.089);
-  background-image: url("../user.png");
+  background-image: url("../images/user.png");
   background-position-y: center;
   background-position-x: 5px;
   background-repeat: no-repeat;
@@ -51,7 +51,7 @@ body {
 }
 .container main #senha {
   background-color: rgba(255, 255, 255, 0.089);
-  background-image: url("../password.png");
+  background-image: url("../images/password.png");
   background-position-y: center;
   background-position-x: 5px;
   background-repeat: no-repeat;

@@ -11,7 +11,6 @@ Na busca constante de aprendizado e desenvolvimento das habilidades, concluo est
 - `Funcionalidade 2`: Cadastrar novo usuário
 
 
-
 # ✔️ Técnicas e tecnologias utilizadas
 
 - ``HTML e CSS``
@@ -19,4 +18,3 @@ Na busca constante de aprendizado e desenvolvimento das habilidades, concluo est
 - ``JavaScript e jQuery``
 
 # 🖼️ Outras imagens
-

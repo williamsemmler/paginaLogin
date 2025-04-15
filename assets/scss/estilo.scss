@@ -1,4 +1,4 @@
-@import "mixins.scss";
+@import "_mixins.scss";
 
 * {
     box-sizing: border-box;
@@ -28,11 +28,11 @@ body {
             }
         }
         #usuario {
-            @include backgroundIcone("../user.png");
+            @include backgroundIcone("../images/user.png");
             border: none;
         }
         #senha {
-            @include backgroundIcone("../password.png");
+            @include backgroundIcone("../images/password.png");
             border: none;
         }
         .cadastrar_novo_usuario {
